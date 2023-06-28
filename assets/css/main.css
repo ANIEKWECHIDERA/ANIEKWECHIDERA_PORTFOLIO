@@ -2758,13 +2758,13 @@ input, select, textarea {
 
 		#header a {
 			border-bottom-color: rgba(255, 255, 255, 0);
-			color: rgba(255, 255, 255, 0.8);
+			color: #70B5F9;
 			
 		}
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #70B5F9;
+				color: #0A66C2;
 			}
 
 		#header strong, #header b {
